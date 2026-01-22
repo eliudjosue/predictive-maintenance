@@ -20,7 +20,7 @@ El propósito de esta colección es demostrar cómo herramientas modernas de pro
 
 | Proyecto | Descripción Técnica | Estado |
 | :--- | :--- | :--- |
-| **[01. Vibration Analysis & FFT](./vibration-analysis)** | **Diagnóstico Espectral:** Algoritmo que utiliza la Transformada Rápida de Fourier (FFT) para identificar Desbalance y Desalineación en equipos rotativos mediante detección de armónicos (1X, 2X, 3X). | ✅ Completado |
+| **[01. Vibration Analysis & FFT](./analisis-vibraciones)** | **Diagnóstico Espectral:** Algoritmo que utiliza la Transformada Rápida de Fourier (FFT) para identificar Desbalance y Desalineación en equipos rotativos mediante detección de armónicos (1X, 2X, 3X). | ✅ Completado |
 | **[02. Próximamente...]** | *Espacio reservado para futuros proyectos (ej: Predicción de RUL, Detección de Anomalías con Isolation Forest, etc.)* | 🚧 En desarrollo |
 
 ---
